@@ -1,11 +1,17 @@
 ---
 name: scientific-figure-design
-description: Use when analyzing figures from research papers, comparing scientific visual styles, or designing publication figures, method diagrams, schematics, and editable vector graphics from supplied evidence and data.
+description: Use when analyzing or designing scientific figures, method diagrams, and editable graphics for aerospace mission planning, satellite observation geometry, constellation scheduling, moving-target monitoring, space-object observation, or optimization experiments.
 ---
 
 # 科研图设计
 
 先确定图要解释的关系与证据，再选择视觉表达。原图可见事实、分析解释和新设计各自记录；图形美观不能替代方法或实验正确性。
+
+## 适用研究方向
+
+主要面向航空航天任务规划与卫星观测调度中的科研图，覆盖星座与协同观测场景、移动或机动目标监测、空间碎片观测、观测几何与视场覆盖、预测包络与动态聚类，以及优化调度算法。典型图型包括几何示意、方法框架、任务窗口与执行时序、协同协议、Pareto前沿和统计结果图。
+
+制造调度、物流、能源管理和无人系统协同等相邻工程领域可复用图形分析与设计流程。按目标领域明确节点、关系、坐标、单位、时序和数据含义，并依据提供的原页与真实数据设计图稿。
 
 ## 输入与缺项
 

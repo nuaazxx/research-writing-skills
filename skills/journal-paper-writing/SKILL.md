@@ -1,11 +1,17 @@
 ---
 name: journal-paper-writing
-description: Use when drafting, revising, or restructuring a journal research paper, auditing contributions, planning experiments, or responding to reviewers from supplied research materials.
+description: Use when drafting or revising journal papers, auditing contributions, planning experiments, or responding to reviewers in aerospace mission planning, satellite observation scheduling, moving-target monitoring, space-object observation, or heuristic and intelligent scheduling research.
 ---
 
 # 期刊论文写作
 
 把问题、机制和证据写成可审查的论证。参考论文提供表达方法和已有证据，不自动成为用户的新贡献。
+
+## 适用研究方向
+
+主要面向航空航天任务规划、对地观测卫星调度、多星与星座协同、移动或机动目标监测、空间碎片与空间目标观测，以及相关的组合优化、启发式、元启发式、遗传规划和强化学习调度方法。观测几何、预测包络、共享视场和动态聚类研究可使用本技能组织问题模型、方法增量与实验证据。
+
+制造调度、物流配送、能源管理等相邻优化研究可复用论证和证据组织流程。使用时明确目标领域、研究对象、变量、物理或业务约束、指标与期刊要求，按本领域材料检查假设和结论。
 
 ## 输入与范围
 

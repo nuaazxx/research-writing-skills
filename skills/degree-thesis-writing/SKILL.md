@@ -1,11 +1,17 @@
 ---
 name: degree-thesis-writing
-description: Use when planning or revising a degree thesis, integrating separate papers into thesis chapters, or resolving chapter dependencies, notation, assumptions, and evidence consistency.
+description: Use when planning or revising a degree thesis, integrating papers into chapters, or resolving chapter and notation consistency in aerospace mission planning, satellite constellation scheduling, moving-target monitoring, space-object observation, or intelligent optimization research.
 ---
 
 # 学位论文写作
 
 建立一个总问题与各章子问题之间的可审查关系。章节相邻不意味着方法已经耦合；把文献、用户已有成果和拟议研究分别标明。
+
+## 适用研究方向
+
+主要用于航空航天任务规划与卫星自主调度方向的学位论文，覆盖多星或星座协同、移动或机动目标监测、空间碎片与空间目标观测，以及相关的预测不确定性、观测几何、共享视场、任务分配和组合优化研究。可围绕预测、观测候选、调度决策与系统验证等子问题组织章节，具体章间关系由已有成果和材料确定。
+
+制造、物流、能源及无人系统协同等相邻工程优化方向可复用章节论证与接口检查流程。输入中明确学科方向、研究对象、各章已有成果、领域模型与学校要求，并按该领域定义核对符号、约束和评价指标。
 
 ## 输入及降级
 

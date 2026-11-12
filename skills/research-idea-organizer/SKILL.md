@@ -1,11 +1,17 @@
 ---
 name: research-idea-organizer
-description: Use when reading research PDFs individually or in a batch, comparing source-backed algorithm mechanisms, auditing novelty, identifying bounded research gaps, or turning evidence into testable research proposals.
+description: Use when reading papers, comparing algorithm mechanisms, auditing novelty, or developing research ideas in aerospace mission planning, satellite and constellation scheduling, moving-target monitoring, space debris observation, or heuristic and intelligent optimization.
 ---
 
 # 研究思路整理
 
 把可追溯的单篇证据转化为可检验的研究问题。已有论文的方法、作者主张、分析者评价与拟议新方案分别保存；不能把不同论文拼成一篇已经存在的研究。
+
+## 适用研究方向
+
+主要用于航空航天任务规划、对地观测卫星与星座协同调度、移动或机动目标监测、空间碎片与空间目标观测，以及相关的组合优化、启发式、元启发式、遗传规划和强化学习调度研究。可围绕轨迹预测与不确定性、观测几何与共享视场、多目标聚合或动态聚类、资源分配与滚动规划开展文献对比和研究思路整理。
+
+制造、物流、能源管理和无人系统协同等相邻方向可复用逐篇审读、机制对比与思路卡流程。输入中明确具体研究方向，按该领域文献与模型建立术语、约束和指标，逐项检查跨场景迁移所需的假设与验证。
 
 ## 输入与缺项
 
